@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikanthkamalla" alt="srikanthkamalla" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS, Typescript**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **frontend**
 
 - 📫 How to reach me **srikanthkamalla2919@gmail.com**
 
