@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced MERN concepts & state management with Redux Toolkit**  
 
-- 💬 Ask me about **MERN Stack | Redux Toolkit | Frontend Development**  
+- 💬 Ask me about **MERN Stack | Redux Toolkit | Frontend Development | Backend Development**  
 
 - 📫 How to reach me **srikanthkamalla2919@gmail.com**  
 
